@@ -32,6 +32,6 @@
     {
         "Namespace": "aws:autoscaling:launchconfiguration",
         "OptionName": "IamInstanceProfile",
-        "Value": "arn:aws:iam::089076977526:role/aws-service-role/elasticbeanstalk.amazonaws.com/AWSServiceRoleForElasticBeanstalk"
+        "Value": "aws-elasticbeanstalk-ec2-role"
     }
 ]
